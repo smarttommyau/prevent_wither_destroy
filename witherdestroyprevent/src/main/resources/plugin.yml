@@ -1,0 +1,11 @@
+main: dev.tommy.witherdestroyprevent.App
+name: WitherDestroyPrevent
+version: 1.0
+description: spawn wither that won't destroy block
+api-version: 1.18
+author: Tommy
+
+commands:
+  wither:
+    description: the command for WitherDestroyPrevent
+    usage: "/wither [help|spawn [current|<x> <y> <z>]]"
